@@ -12,5 +12,5 @@ Building local-first software, calibrated retrieval engines, and agent memory sy
 
 #### Principles
 - **Local-first primitives** over cloud lock-in and framework sprawl.
-- **Empirical ablations & calibrated abstention** over unverified retrieval vibes.
+- **Empirical ablations & calibrated abstention**
 - **Inspectable state** — plain-text files and disposable SQLite indices you can audit in seconds.
